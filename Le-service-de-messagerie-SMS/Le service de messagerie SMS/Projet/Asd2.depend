@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1650833503 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltconprim.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	"ELTCONPRIM.h"
+
+1650749933 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltconprim.h
+	"ELTCONSDD.h"
+
+1650749954 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltconsdd.h
+	"ELTCON.h"
+
+1650749876 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltcon.h
+
+1650827625 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltmsgprim.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTMSGPRIM.h"
+
+1650750005 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltmsgprim.h
+	"ELTMSGSDD.h"
+
+1650750102 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltmsgsdd.h
+	"ELTMSG.h"
+
+1650749974 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltmsg.h
+	"LSTSMSPRIM.h"
+
+1650750456 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstsmsprim.h
+	"LSTSMSSDD.H"
+	"ELTSMSPRIM.h"
+
+1650750467 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstsmssdd.h
+	"LSTSMS.h"
+
+1650750421 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstsms.h
+	"ELTSMSPRIM.h"
+
+1650750218 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltsmsprim.h
+	"ELTSMSSDD.h"
+
+1650750231 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltsmssdd.h
+	"ELTSMS.h"
+
+1650749847 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltsms.h
+
+1650750137 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltpileprim.c
+	<stdlib.H>
+	<stdio.h>
+	<string.h>
+	"ELTPILEPRIM.h"
+	<malloc.h>
+
+1650750158 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltpileprim.h
+	"ELTPILESDD.h"
+
+1650750174 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltpilesdd.h
+	"ELTPILE.h"
+
+1650797076 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltpile.h
+
+1650789101 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\eltsmsprim.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTSMSPRIM.h"
+
+1650750272 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstconprim.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTCONPRIM.h"
+	<malloc.h>
+	"LSTCONPRIM.h"
+
+1650750311 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstconprim.h
+	"LSTCONSDD.h"
+
+1650750333 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstconsdd.h
+	"LSTCON.h"
+
+1650750252 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstcon.h
+	"ELTCONPRIM.h"
+
+1650839897 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstmsgprim.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTMSGPRIM.h"
+
+1650750384 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstmsgprim.h
+	"LSTMSGSDD.h"
+
+1650750407 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstmsgsdd.h
+	"LSTMSG.h"
+
+1650750351 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstmsg.h
+	"ELTMSGPRIM.h"
+
+1650791018 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\lstsmsprim.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTSMSPRIM.h"
+
+1650839692 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LSTMSGPRIM.h"
+	"LSTSMSPRIM.h"
+	<time.h>
+	"ELTCONPRIM.h"
+	"LSTCONPRIM.h"
+	"PILEPRIM.h"
+	"ELTMSGPRIM.h"
+	"ELTSMS.h"
+	<locale.h>
+	<conio.h>
+
+1650796890 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\pileprim.h
+	"PILESDD.h"
+	"ELTPILEPRIM.h"
+
+1650750528 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\pilesdd.h
+	"PILE.h"
+
+1650750485 c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\pile.h
+	"ELTPILEPRIM.h"
+
+1650797228 source:c:\users\21651\onedrive\bureau\aziz hamdi hadhemi ben jammour\asd2\pileprim.c
+	<stdlib.h>
+	<stdio.h>
+	"PILEPRIM.h"
+	"ELTPILEPRIM.h"
+

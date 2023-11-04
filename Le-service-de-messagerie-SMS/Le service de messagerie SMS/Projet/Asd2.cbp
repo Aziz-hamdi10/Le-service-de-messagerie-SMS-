@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Asd2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Asd2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Asd2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ELTCON.h" />
+		<Unit filename="ELTCONPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTCONPRIM.h" />
+		<Unit filename="ELTCONSDD.h" />
+		<Unit filename="ELTMSG.h" />
+		<Unit filename="ELTMSGPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTMSGPRIM.h" />
+		<Unit filename="ELTMSGSDD.h" />
+		<Unit filename="ELTPILE.h" />
+		<Unit filename="ELTPILEPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTPILEPRIM.h" />
+		<Unit filename="ELTPILESDD.h" />
+		<Unit filename="ELTSMS.h" />
+		<Unit filename="ELTSMSPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTSMSPRIM.h" />
+		<Unit filename="ELTSMSSDD.h" />
+		<Unit filename="LSTCON.h" />
+		<Unit filename="LSTCONPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTCONPRIM.h" />
+		<Unit filename="LSTCONSDD.h" />
+		<Unit filename="LSTMSG.h" />
+		<Unit filename="LSTMSGPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTMSGPRIM.h" />
+		<Unit filename="LSTMSGSDD.h" />
+		<Unit filename="LSTSMS.h" />
+		<Unit filename="LSTSMSPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTSMSPRIM.h" />
+		<Unit filename="LSTSMSSDD.h" />
+		<Unit filename="PILE.h" />
+		<Unit filename="PILEPRIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PILEPRIM.h" />
+		<Unit filename="PILESDD.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
